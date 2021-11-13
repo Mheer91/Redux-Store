@@ -11,6 +11,7 @@
 In this app we took starter code from a previous activity that we completed. Then, we refactored it to use Redux to manage global state instead of React's built in context.
 
 ## Screenshot
+<img width="1792" alt="Screen Shot 2021-11-13 at 12 47 15 AM" src="https://user-images.githubusercontent.com/80427770/141607550-9e5cb16a-6b0f-4515-b424-5fa07a730e67.png">
 
 ## Technologies
 - React
